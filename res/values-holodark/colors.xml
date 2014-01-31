@@ -116,14 +116,27 @@
     <!-- The color of the senders text in the teaser -->
     <color name="folder_teaser_senders_text">#aaaaaa</color>
     <!-- The color of the count text in the teaser -->
-    <color name="folder_teaser_count_text">@android:color/white</color>
+    <color name="folder_teaser_count_text">@color/white</color>
 
     <!-- colors from layouts -->
-    <color name="white_bg">#000000</color>
-    <color name="gray_bg">#555555</color>
-    <color name="gray_text">#aaaaaa</color>
-    <color name="black_text">#ffffff</color>
     <color name="attachment_title">#cccccc</color>
     <color name="attachment_subtitle">#666666</color>
     <color name="quoted_text_bg">#333333</color>
+
+    <!-- New Colors for Theme Chooser to be compatible -->
+    <color name="black">#ffffffff</color>
+    <color name="compose_attachment_tile_subtitle_text_color">#ff000000</color>
+    <color name="compose_attachment_tile_title_text_color">#ff000000</color>
+    <color name="conversation_view_header_background_color">#ff000000</color>
+    <color name="darker_gray">#555</color>
+    <color name="holo_blue_dark">#ff0099cc</color>
+    <color name="holo_blue_light">#ff33b5e5</color>
+    <color name="search_results_view_text_color">#aaaaaa</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ff000000</color>
+    <color name="widget_loading_color">#ffffffff</color>
+    <color name="widget_senders_text_color">#cccccc</color>
+    <color name="widget_subtitle_color">#babebe</color>
+    <color name="widget_title_color">#babebe</color>
+    <color name="widget_unread_color">#aaaaaa</color>
 </resources>
